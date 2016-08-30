@@ -5,7 +5,7 @@
 * 访问web
 
 ## 效果截图
-* 创建过程
+* 生成二维码流程
 	![image](http://ocggi1ecj.bkt.clouddn.com/23a6b78c-d2f9-4392-95fd-b67e77eff3a1.png)
 
 * 生成的二维码（PDF417码制）
